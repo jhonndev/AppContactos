@@ -1,0 +1,942 @@
+CRITICAL - 2023-06-09 04:04:39 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-09 04:05:14 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-09 15:22:44 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:27:45 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:27:46 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:27:47 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:27:52 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:37:39 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:37:40 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:37:40 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:38:31 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:39:13 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 35.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:42:12 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type Config\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 38.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(38): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:47:46 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type CodeIgniter\Router\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 38.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(38): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:50:12 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type CodeIgniter\Router\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 39.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(39): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:50:13 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type CodeIgniter\Router\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 39.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(39): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:50:14 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type CodeIgniter\Router\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 39.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(39): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:52:44 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:52:46 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:54:58 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:54:59 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:00 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:00 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:00 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:01 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:01 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:01 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:01 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:31 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:32 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:51 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:57 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:55:58 --> Class "Config\RouterCollection" not found
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:56:22 --> CodeIgniter\Router\RouteCollection::Config\{closure}(): Argument #1 ($routes) must be of type CodeIgniter\Router\RouteGroup, CodeIgniter\Router\RouteCollection given, called in C:\xampp\htdocs\biblioteca\system\Router\RouteCollection.php on line 676
+in APPPATH\Config\Routes.php on line 39.
+ 1 SYSTEMPATH\Router\RouteCollection.php(676): CodeIgniter\Router\RouteCollection->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 2 APPPATH\Config\Routes.php(39): CodeIgniter\Router\RouteCollection->group('contactos', Object(Closure))
+ 3 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Routes.php')
+ 4 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 15:59:14 --> Class "App\Controllers\ContactoModel" not found
+in APPPATH\Controllers\Contactos.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 16:01:15 --> Class "App\Controllers\ContactoModel" not found
+in APPPATH\Controllers\Contactos.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 16:44:23 --> Undefined variable $head
+in APPPATH\Views\contactos\create.php on line 1.
+ 1 APPPATH\Views\contactos\create.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $head', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\contactos\\create.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\contactos\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactos/create', [], true)
+ 5 APPPATH\Controllers\Contactos.php(21): view('contactos/create')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->create()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 17:39:08 --> The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 137.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Contactos.php(42): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploads/', '1686332348_0c9aecc531f0abb7e933')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:29:23 --> Call to undefined method CodeIgniter\Validation\Validation::setMessages()
+in APPPATH\Controllers\Contactos.php on line 49.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:30:55 --> Call to undefined method CodeIgniter\Validation\Validation::setRuleMessages()
+in APPPATH\Controllers\Contactos.php on line 49.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:34:10 --> Undefined variable $head
+in APPPATH\Views\contactos\create.php on line 1.
+ 1 APPPATH\Views\contactos\create.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $head', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\contactos\\create.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\contactos\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactos/create', [], true)
+ 5 APPPATH\Controllers\Contactos.php(53): view('contactos/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:35:38 --> Undefined variable $head
+in APPPATH\Views\contactos\create.php on line 1.
+ 1 APPPATH\Views\contactos\create.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $head', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\contactos\\create.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\contactos\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactos/create', [], true)
+ 5 APPPATH\Controllers\Contactos.php(53): view('contactos/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:39:21 --> "$model->callback_existeTelefono" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('$model->callback_existeTelefono')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('telefono', 'telefono', '6465465454', [...], [...])
+ 3 APPPATH\Controllers\Contactos.php(51): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:39:36 --> Undefined variable $head
+in APPPATH\Views\contactos\create.php on line 1.
+ 1 APPPATH\Views\contactos\create.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $head', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\contactos\\create.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\contactos\\create.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactos/create', [], true)
+ 5 APPPATH\Controllers\Contactos.php(53): view('contactos/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:42:11 --> "$model->callback_existeTelefono" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('$model->callback_existeTelefono')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('telefono', 'telefono', '7451246958', [...], [...])
+ 3 APPPATH\Controllers\Contactos.php(51): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:44:04 --> "callback_existeTelefono" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('callback_existeTelefono')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('telefono', 'telefono', '7451246958', [...], [...])
+ 3 APPPATH\Controllers\Contactos.php(50): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:44:24 --> "xisteTelefono" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('xisteTelefono')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('telefono', 'telefono', '7451246958', [...], [...])
+ 3 APPPATH\Controllers\Contactos.php(50): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:44:38 --> "existeTelefono" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('existeTelefono')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('telefono', 'telefono', '7451246958', [...], [...])
+ 3 APPPATH\Controllers\Contactos.php(50): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:52:15 --> Class "Config\ExisteTelefono" not found
+in SYSTEMPATH\Validation\Validation.php on line 613.
+ 1 SYSTEMPATH\Validation\Validation.php(127): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 APPPATH\Controllers\Contactos.php(56): CodeIgniter\Validation\Validation->run()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:54:59 --> syntax error, unexpected token "class"
+in APPPATH\Config\Validation.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Validation.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Validation')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Validation')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Validation')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Validation')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(753): config('Validation')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::validation(null, false)
+ 9 SYSTEMPATH\BaseModel.php(332): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+10 SYSTEMPATH\Model.php(159): CodeIgniter\BaseModel->__construct(null)
+11 APPPATH\Controllers\Contactos.php(13): CodeIgniter\Model->__construct()
+12 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Contactos->__construct()
+13 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:55:54 --> syntax error, unexpected token "class"
+in APPPATH\Config\Validation.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Validation.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Validation')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Validation')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Validation')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Validation')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(753): config('Validation')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::validation(null, false)
+ 9 SYSTEMPATH\BaseModel.php(332): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+10 SYSTEMPATH\Model.php(159): CodeIgniter\BaseModel->__construct(null)
+11 APPPATH\Controllers\Contactos.php(13): CodeIgniter\Model->__construct()
+12 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Contactos->__construct()
+13 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:55:54 --> syntax error, unexpected token "class"
+in APPPATH\Config\Validation.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Config\\Validation.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Validation')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Validation')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Validation')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Validation')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(753): config('Validation')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::validation(null, false)
+ 9 SYSTEMPATH\BaseModel.php(332): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+10 SYSTEMPATH\Model.php(159): CodeIgniter\BaseModel->__construct(null)
+11 APPPATH\Controllers\Contactos.php(13): CodeIgniter\Model->__construct()
+12 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Contactos->__construct()
+13 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 18:57:39 --> "existeTelefono" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('existeTelefono')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('telefono', 'telefono', '654654646', [...], [...])
+ 3 APPPATH\Controllers\Contactos.php(56): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:00:39 --> "existeTelefono" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('existeTelefono')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('telefono', 'telefono', '654654646', [...], [...])
+ 3 APPPATH\Controllers\Contactos.php(56): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:01:13 --> "callback_existeTelefono" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('callback_existeTelefono')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('telefono', 'telefono', '654654646', [...], [...])
+ 3 APPPATH\Controllers\Contactos.php(56): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:03:29 --> Undefined variable $validation
+in APPPATH\Controllers\Contactos.php on line 46.
+ 1 APPPATH\Controllers\Contactos.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 46)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:04:29 --> Undefined variable $validation
+in APPPATH\Controllers\Contactos.php on line 46.
+ 1 APPPATH\Controllers\Contactos.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 46)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:34:38 --> unlink(../public/uploads/): Is a directory
+in APPPATH\Controllers\Contactos.php on line 122.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/): Is a directory', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 122)
+ 2 APPPATH\Controllers\Contactos.php(122): unlink('../public/uploads/')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->eliminar('6')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:42:59 --> unlink(../public/uploads/): Is a directory
+in APPPATH\Controllers\Contactos.php on line 123.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/): Is a directory', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 123)
+ 2 APPPATH\Controllers\Contactos.php(123): unlink('../public/uploads/')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->eliminar('6')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:43:18 --> unlink(../public/uploads/): Is a directory
+in APPPATH\Controllers\Contactos.php on line 123.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/): Is a directory', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 123)
+ 2 APPPATH\Controllers\Contactos.php(123): unlink('../public/uploads/')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->eliminar('6')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:53:30 --> Undefined variable $contacto
+in APPPATH\Controllers\Contactos.php on line 128.
+ 1 APPPATH\Controllers\Contactos.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $contacto', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 128)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->eliminar('3')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:55:23 --> unlink(../public/uploads/): Is a directory
+in APPPATH\Controllers\Contactos.php on line 134.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/): Is a directory', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 134)
+ 2 APPPATH\Controllers\Contactos.php(134): unlink('../public/uploads/')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->eliminar('7')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 19:56:11 --> unlink(../public/uploads/): Is a directory
+in APPPATH\Controllers\Contactos.php on line 134.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/): Is a directory', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 134)
+ 2 APPPATH\Controllers\Contactos.php(134): unlink('../public/uploads/')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->eliminar('7')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 20:43:37 --> Call to undefined function App\Controllers\validarFormulario()
+in APPPATH\Controllers\Contactos.php on line 63.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-09 20:45:20 --> mysqli_sql_exception: Duplicate entry '55487485' for key 'telefono_unique' in C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `co...', 0)
+#1 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 C:\xampp\htdocs\biblioteca\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 C:\xampp\htdocs\biblioteca\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\biblioteca\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\biblioteca\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(85): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+#9 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+#10 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\biblioteca\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2023-06-09 20:45:41 --> mysqli_sql_exception: Duplicate entry '55487485' for key 'telefono_unique' in C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `co...', 0)
+#1 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 C:\xampp\htdocs\biblioteca\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 C:\xampp\htdocs\biblioteca\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\biblioteca\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\biblioteca\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(85): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+#9 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+#10 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\biblioteca\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2023-06-09 20:46:19 --> mysqli_sql_exception: Duplicate entry 'ositos@gmail.com' for key 'correo_unique' in C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `co...', 0)
+#1 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 C:\xampp\htdocs\biblioteca\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 C:\xampp\htdocs\biblioteca\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\biblioteca\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\biblioteca\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(85): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+#9 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+#10 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\biblioteca\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2023-06-09 20:47:48 --> mysqli_sql_exception: Duplicate entry '' for key 'telefono_unique' in C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `co...', 0)
+#1 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 C:\xampp\htdocs\biblioteca\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 C:\xampp\htdocs\biblioteca\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\biblioteca\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\biblioteca\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(85): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+#9 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+#10 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\biblioteca\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2023-06-09 20:48:36 --> mysqli_sql_exception: Duplicate entry 'ositos@gmail.com' for key 'correo_unique' in C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `co...', 0)
+#1 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 C:\xampp\htdocs\biblioteca\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 C:\xampp\htdocs\biblioteca\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\biblioteca\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\biblioteca\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(85): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+#9 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+#10 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\biblioteca\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-09 20:49:48 --> syntax error, unexpected identifier "que"
+in APPPATH\Controllers\Contactos.php on line 46.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:07:57 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\Contactos.php on line 197.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:07:58 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\Contactos.php on line 197.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:11:32 --> Undefined variable $telefono
+in APPPATH\Controllers\Contactos.php on line 161.
+ 1 APPPATH\Controllers\Contactos.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $telefono', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 161)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('11')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:13:00 --> "mine_in" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('mine_in')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Contactos.php(64): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:13:57 --> "mine_in" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 329.
+ 1 SYSTEMPATH\Validation\Validation.php(329): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('mine_in')
+ 2 SYSTEMPATH\Validation\Validation.php(179): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Contactos.php(64): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:34:15 --> syntax error, unexpected token "(", expecting variable
+in APPPATH\Controllers\Contactos.php on line 161.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:34:15 --> syntax error, unexpected token "(", expecting variable
+in APPPATH\Controllers\Contactos.php on line 161.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:34:38 --> syntax error, unexpected variable "$correo", expecting ")"
+in APPPATH\Controllers\Contactos.php on line 161.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:39:41 --> Too few arguments to function App\Controllers\Contactos::validarFormulario(), 3 passed in C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php on line 150 and exactly 4 expected
+in APPPATH\Controllers\Contactos.php on line 166.
+ 1 APPPATH\Controllers\Contactos.php(150): App\Controllers\Contactos->validarFormulario('Leones', '6584987987', 'leones@hotmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('20')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:47:16 --> Undefined variable $modelContactos
+in APPPATH\Controllers\Contactos.php on line 154.
+ 1 APPPATH\Controllers\Contactos.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $modelContactos', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:47:34 --> Array to string conversion
+in APPPATH\Controllers\Contactos.php on line 176.
+ 1 APPPATH\Controllers\Contactos.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 176)
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:48:54 --> Array to string conversion
+in APPPATH\Controllers\Contactos.php on line 176.
+ 1 APPPATH\Controllers\Contactos.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 176)
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 21:53:10 --> Undefined constant "App\Controllers\telefono"
+in APPPATH\Controllers\Contactos.php on line 179.
+ 1 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-09 21:57:29 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `telefon...', 0)
+#1 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `telefon...')
+#2 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `telefon...')
+#3 C:\xampp\htdocs\biblioteca\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `telefon...', Array, false)
+#4 C:\xampp\htdocs\biblioteca\app\Models\ContactoModel.php(32): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(175): App\Models\ContactoModel->buscarTelefonoUsuario('19')
+#6 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.co...', Object(App\Models\ContactoModel), '19')
+#7 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+#8 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+#9 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\biblioteca\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-06-09 21:57:29 --> Call to a member function getNumRows() on bool
+in APPPATH\Models\ContactoModel.php on line 34.
+ 1 APPPATH\Controllers\Contactos.php(175): App\Models\ContactoModel->buscarTelefonoUsuario('19')
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-09 21:58:41 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `telefon...', 0)
+#1 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `telefon...')
+#2 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `telefon...')
+#3 C:\xampp\htdocs\biblioteca\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `telefon...', Array, false)
+#4 C:\xampp\htdocs\biblioteca\app\Models\ContactoModel.php(32): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(175): App\Models\ContactoModel->buscarTelefonoUsuario('19')
+#6 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.co...', Object(App\Models\ContactoModel), '19')
+#7 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+#8 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+#9 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\biblioteca\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-06-09 21:58:41 --> Attempt to read property "resultID" on bool
+in APPPATH\Models\ContactoModel.php on line 34.
+ 1 APPPATH\Models\ContactoModel.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "resultID" on bool', 'C:\\xampp\\htdocs\\biblioteca\\app\\Models\\ContactoModel.php', 34)
+ 2 APPPATH\Controllers\Contactos.php(175): App\Models\ContactoModel->buscarTelefonoUsuario('19')
+ 3 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:00:26 --> Undefined variable $usuarioId
+in APPPATH\Controllers\Contactos.php on line 175.
+ 1 APPPATH\Controllers\Contactos.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuarioId', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 175)
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:00:47 --> Undefined variable $usuarioId
+in APPPATH\Controllers\Contactos.php on line 175.
+ 1 APPPATH\Controllers\Contactos.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuarioId', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 175)
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:00:59 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Controllers\Contactos.php on line 179.
+ 1 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:01:30 --> implode(): Argument #2 ($array) must be of type ?array, CodeIgniter\Database\MySQLi\Result given
+in APPPATH\Controllers\Contactos.php on line 179.
+ 1 APPPATH\Controllers\Contactos.php(179): implode(', ', Object(CodeIgniter\Database\MySQLi\Result))
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:02:58 --> Call to undefined method App\Models\ContactoModel::buscarTelefonoUsuario
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Contactos.php(175): CodeIgniter\Model->__call('buscarTelefonoUsuario', [...])
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:03:18 --> implode(): Argument #2 ($array) must be of type ?array, string given
+in APPPATH\Controllers\Contactos.php on line 179.
+ 1 APPPATH\Controllers\Contactos.php(179): implode(', ', '84897979')
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-09 22:18:03 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\biblioteca\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `telefon...', 0)
+#1 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `telefon...')
+#2 C:\xampp\htdocs\biblioteca\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `telefon...')
+#3 C:\xampp\htdocs\biblioteca\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `telefon...', Array, false)
+#4 C:\xampp\htdocs\biblioteca\app\Models\ContactoModel.php(32): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(175): App\Models\ContactoModel->buscarTelefonoYCorreoUsuario('11')
+#6 C:\xampp\htdocs\biblioteca\app\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('5548748588', 'ositos@gmail.co...', Object(App\Models\ContactoModel), '11')
+#7 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('11')
+#8 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+#9 C:\xampp\htdocs\biblioteca\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\biblioteca\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-06-09 22:18:03 --> Call to a member function getNumRows() on bool
+in APPPATH\Models\ContactoModel.php on line 34.
+ 1 APPPATH\Controllers\Contactos.php(175): App\Models\ContactoModel->buscarTelefonoYCorreoUsuario('11')
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('5548748588', 'ositos@gmail.com', Object(App\Models\ContactoModel), '11')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('11')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:18:39 --> Array to string conversion
+in APPPATH\Controllers\Contactos.php on line 179.
+ 1 APPPATH\Controllers\Contactos.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 179)
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('5548748588', 'ositos@gmail.com', Object(App\Models\ContactoModel), '11')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('11')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:18:51 --> Array to string conversion
+in APPPATH\Controllers\Contactos.php on line 179.
+ 1 APPPATH\Controllers\Contactos.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 179)
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('5548748588', 'ositos@gmail.com', Object(App\Models\ContactoModel), '11')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('11')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:20:51 --> implode(): Argument #2 ($array) must be of type ?array, string given
+in APPPATH\Controllers\Contactos.php on line 179.
+ 1 APPPATH\Controllers\Contactos.php(179): implode(', ', 'ositos@gmail.com')
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('5548748588', 'ositos@gmail.com', Object(App\Models\ContactoModel), '11')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('11')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:22:36 --> syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Controllers\Contactos.php on line 186.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:27:06 --> Undefined variable $model
+in APPPATH\Controllers\Contactos.php on line 180.
+ 1 APPPATH\Controllers\Contactos.php(180): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 180)
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:27:22 --> Call to a member function existeTelefono() on array
+in APPPATH\Controllers\Contactos.php on line 180.
+ 1 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:27:54 --> Array to string conversion
+in APPPATH\Controllers\Contactos.php on line 188.
+ 1 APPPATH\Controllers\Contactos.php(188): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 188)
+ 2 APPPATH\Controllers\Contactos.php(154): App\Controllers\Contactos->validarCampos('84897979', 'asddsa@gmail.com', Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 22:28:32 --> syntax error, unexpected identifier "implode", expecting "," or ";"
+in APPPATH\Controllers\Contactos.php on line 188.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contactos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contactos')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Contactos', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 23:06:54 --> Undefined variable $model
+in APPPATH\Controllers\Contactos.php on line 205.
+ 1 APPPATH\Controllers\Contactos.php(205): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 205)
+ 2 APPPATH\Controllers\Contactos.php(149): App\Controllers\Contactos->validarCampos('6584987987', 'asddsa@gmail.com', Object(CodeIgniter\HTTP\Files\UploadedFile), Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 23:07:36 --> Undefined constant "App\Controllers\id"
+in APPPATH\Controllers\Contactos.php on line 205.
+ 1 APPPATH\Controllers\Contactos.php(149): App\Controllers\Contactos->validarCampos('6584987987', 'asddsa@gmail.com', Object(CodeIgniter\HTTP\Files\UploadedFile), Object(App\Models\ContactoModel), '19')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 23:09:06 --> Undefined array key "foto"
+in APPPATH\Controllers\Contactos.php on line 208.
+ 1 APPPATH\Controllers\Contactos.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "foto"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Contactos.php', 208)
+ 2 APPPATH\Controllers\Contactos.php(149): App\Controllers\Contactos->validarCampos('6584987987', 'asddsa@gmail.com', Object(CodeIgniter\HTTP\Files\UploadedFile), Object(App\Models\ContactoModel), '19')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-09 23:09:17 --> Cannot use object of type App\Models\ContactoModel as array
+in APPPATH\Controllers\Contactos.php on line 208.
+ 1 APPPATH\Controllers\Contactos.php(149): App\Controllers\Contactos->validarCampos('6584987987', 'asddsa@gmail.com', Object(CodeIgniter\HTTP\Files\UploadedFile), Object(App\Models\ContactoModel), '19')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Contactos->actualizar('19')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contactos))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
